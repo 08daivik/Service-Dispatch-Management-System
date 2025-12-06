@@ -1,0 +1,10 @@
+[
+  {
+    "TechId": 1,
+    "Name": "Darshi",
+    "Skills": [
+      "HVAC"
+    ],
+    "HourlyRate": 24
+  }
+]
